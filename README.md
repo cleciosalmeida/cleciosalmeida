@@ -1,8 +1,8 @@
 
-Atualmente, busco o desenvolvimento web com **CSS**, **JavaScript**, **HTML5**, e **MySQL**. No momento esse é o foco. 
+Quero codar! Tenho estudado **CSS**, **JavaScript**, **HTML5**, e **MySQL**. 
 
 🚀 **O que estou construindo:**  
-Atualmente, estou desenvolvendo um site para um meliponário, que inclui informações detalhadas sobre abelhas nativas do Brasil, especificamente do Rio Grande do Sul. O projeto também prevê a implementação de ferramentas como cálculo de madeira para caixas, estimativa de produção de mel, agenda de manejo e mais.
+Atualmente, estou desenvolvendo um site de estudo para um meliponário, que inclui informações detalhadas sobre abelhas nativas do Brasil, especificamente do Rio Grande do Sul. O projeto também prevê a implementação de ferramentas como cálculo de madeira para caixas, estimativa de produção de mel, agenda de manejo e mais. É através deste projeto que estudo.
 
 💭 **Áreas de interesse:**
 Filosofia, Astronomia, Música, Liturgia Católica, Neurociência, Saúde, Musculação, Nutrição. 
