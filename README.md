@@ -5,7 +5,7 @@ Quero codar! Tenho estudado **CSS**, **JavaScript**, **HTML5**, e **MySQL**.
 Atualmente, estou desenvolvendo um site de estudo para um meliponário, que inclui informações detalhadas sobre abelhas nativas do Brasil, especificamente do Rio Grande do Sul. O projeto também prevê a implementação de ferramentas como cálculo de madeira para caixas, estimativa de produção de mel, agenda de manejo e mais. É através deste projeto que estudo.
 
 💭 **Áreas de interesse:**
-Filosofia, Astronomia, Música, Liturgia Católica, Neurociência, Saúde, Musculação, Nutrição. 
+filosofia, artes do belo, astronomia, neurociência, saúde, musculação, nutrição. 
 
 💻 **Habilidades e Tecnologias:**
 <p align="left">
